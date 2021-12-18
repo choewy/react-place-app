@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-place-app/static/css/main.11f46387.chunk.css",
+    "main.js": "/react-place-app/static/js/main.3b5fbe17.chunk.js",
+    "main.js.map": "/react-place-app/static/js/main.3b5fbe17.chunk.js.map",
+    "runtime-main.js": "/react-place-app/static/js/runtime-main.93a41e88.js",
+    "runtime-main.js.map": "/react-place-app/static/js/runtime-main.93a41e88.js.map",
+    "static/js/2.b181f10f.chunk.js": "/react-place-app/static/js/2.b181f10f.chunk.js",
+    "static/js/2.b181f10f.chunk.js.map": "/react-place-app/static/js/2.b181f10f.chunk.js.map",
+    "index.html": "/react-place-app/index.html",
+    "static/css/main.11f46387.chunk.css.map": "/react-place-app/static/css/main.11f46387.chunk.css.map",
+    "static/js/2.b181f10f.chunk.js.LICENSE.txt": "/react-place-app/static/js/2.b181f10f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93a41e88.js",
+    "static/js/2.b181f10f.chunk.js",
+    "static/css/main.11f46387.chunk.css",
+    "static/js/main.3b5fbe17.chunk.js"
+  ]
+}
